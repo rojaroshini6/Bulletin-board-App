@@ -1,6 +1,8 @@
 # Bulletin-board-App using Redux ToolKit
 
-1)React Redux Project with Redux Toolkit
+1) React Redux Project using Redux Toolkit.
+2) Bulletin Board app managing states globally using redux.
+3) New post can be added and provides “emoji” reactions to posts.
 
 ### Setup of the project
 1) Clone the repository by using the following command.
