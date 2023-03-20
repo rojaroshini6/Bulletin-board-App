@@ -1,4 +1,4 @@
-# Bulletin-board-App using Redux ToolKit
+# Bulletin-board-App
 
 1) React Redux Project using Redux Toolkit.
 2) Bulletin Board app managing states globally using redux.
