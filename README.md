@@ -9,6 +9,7 @@ git clone https://github.com/rojaroshini6/Bulletin-board-App.git
 
 cd to the folder redux.
 
-cd redux
+1)cd redux
 
-npm start
+2)npm start
+Now, the React app should run at localhost 3000. 
