@@ -2,22 +2,22 @@
 
 1)React Redux Project with Redux Toolkit
 
-Setup of the project
-Clone the repository by using the following command.
+### Setup of the project
+1) Clone the repository by using the following command.
 
-git clone https://github.com/rojaroshini6/Bulletin-board-App.git
+git clone `https://github.com/rojaroshini6/Bulletin-board-App.git`
 
-cd to the folder bulletin-board-app.
+2) cd to the folder bulletin-board-app.
 
 cd bulletin-board-app
 
-Installation
+### Installation
 Give the following command in the command line.
 
-npm i or yarn install
+* npm i or yarn install
 
 
-Run the project on localhost
+### Run the project on localhost
 Give the following command for running in localhost.
 
-npm run start or yarn start
+* npm run start or yarn start
